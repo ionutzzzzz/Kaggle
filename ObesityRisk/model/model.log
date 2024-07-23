@@ -1,0 +1,22 @@
+Best parameters found: {'learning_rate': 0.1, 'max_depth': 2, 'n_estimators': 542}
+Best cross-validation accuracy: 0.9058779978394472
+Time:   2024-02-16 00:23:27.319904
+
+Classification raport:               precision    recall  f1-score   support
+
+           1       0.94      0.94      0.94       524
+           2       0.87      0.88      0.88       626
+           3       0.90      0.87      0.89       543
+           4       0.97      0.97      0.97       657
+           5       1.00      1.00      1.00       804
+           6       0.77      0.77      0.77       484
+           7       0.79      0.80      0.80       514
+
+    accuracy                           0.90      4152
+   macro avg       0.89      0.89      0.89      4152
+weighted avg       0.90      0.90      0.90      4152
+
+
+Start time: 1708027868.6436884
+End time: 1708035807.319375
+Time to train: 2.2051876907216177 Hours

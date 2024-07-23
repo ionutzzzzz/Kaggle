@@ -1,0 +1,18 @@
+Accuracy Score: 0.9588150289017341
+Model Name: GradientBoostingClassifier(max_depth=4, min_samples_leaf=2, n_estimators=200,
+                           subsample=0.9)
+Time:   2024-02-08 00:52:24.944035
+
+Report:               precision    recall  f1-score   support
+
+           1       0.98      0.98      0.98       524
+           2       0.93      0.94      0.94       626
+           3       0.97      0.96      0.96       543
+           4       1.00      1.00      1.00       657
+           5       1.00      1.00      1.00       804
+           6       0.90      0.88      0.89       484
+           7       0.91      0.92      0.92       514
+
+    accuracy                           0.96      4152
+   macro avg       0.95      0.95      0.95      4152
+weighted avg       0.96      0.96      0.96      4152
