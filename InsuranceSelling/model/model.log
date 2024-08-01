@@ -1,0 +1,17 @@
+Best parameters found: {'learning_rate': 0.04}
+Best cross-validation accuracy: 0.8790088222163183
+Time:   2024-07-21 06:55:25.654814
+
+Classification raport:               precision    recall  f1-score   support
+
+           0       0.89      0.99      0.94   1605454
+           1       0.57      0.09      0.15    220051
+
+    accuracy                           0.88   1825505
+   macro avg       0.73      0.54      0.54   1825505
+weighted avg       0.85      0.88      0.84   1825505
+
+
+Start time: 1721533975.6991537
+End time: 1721534125.6545753
+Time to train: 0.04165428380171458 Hours
