@@ -9,4 +9,5 @@ imblearn
 lightgbm
 ipywidgets
 matplotlib
+statsmodels
 scikit-learn
