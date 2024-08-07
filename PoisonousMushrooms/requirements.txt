@@ -6,6 +6,7 @@ seaborn
 catboost
 datetime
 imblearn
+dataprep
 lightgbm
 ipywidgets
 matplotlib
