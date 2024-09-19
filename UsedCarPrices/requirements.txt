@@ -1,0 +1,14 @@
+numpy
+# pickle
+pandas
+pyarrow
+seaborn
+catboost
+datetime
+imblearn
+dataprep
+lightgbm
+ipywidgets
+matplotlib
+statsmodels
+scikit-learn
